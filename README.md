@@ -8,4 +8,4 @@ Datasource:
 CSSE at Johns Hopkins University
 
 Credits:
-**Ted Petrou
+**Ted Petrou**
